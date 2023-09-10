@@ -1,14 +1,10 @@
-import pyfiglet
+
 Z =  '\033[1;31m' 
 F = '\033[2;32m' 
 B = '\033[2;36m'
 X = '\033[1;33m' 
 C = '\033[2;35m'
-logo = pyfiglet.figlet_format('POLAS')
-print(Z+logo)
 
-loo = pyfiglet.figlet_format('professor')
-print(F+loo)
 
 k=("</>_</>_</>_</>_</>_</>_</>_</>_</>")
  
